@@ -1,18 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on IC-V2<br>🌱 I’m currently learning React and NextJS
+# 关于我
 
+## 你好，我是北京 👋
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xyz959&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xyz959&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xyz959&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 前端开发者 | 创意编码者
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+你好！我是一名热爱前端开发的工程师，以北京为名。我的编码旅程始于多年前，从那时起，我一直在探索创新的Web技术和设计动态用户体验的方式。
 
----
-[![](https://visitcount.itsvg.in/api?id=xyz959&icon=3&color=1)](https://visitcount.itsvg.in)
+### 技能
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **前端技术栈:** HTML, CSS, JavaScript (ES6+), React
+- **工具:** Git, Webpack, npm
+- **设计:** UI/UX设计，响应式设计
+
+### 我的使命
+
+我的目标是通过优雅的代码和出色的用户界面创造令人难忘的Web体验。我喜欢与团队协作，致力于将创意转化为实际可行的项目。
+
+### 开源贡献
+
+我热衷于开源项目，致力于分享知识，提高开发社区的水平。通过参与开源，我不仅学到了很多，还结识了许多优秀的同行。
+
+### 联系方式
+
+- GitHub: [您的GitHub用户名]([https://github.com/您的GitHub用户名](https://github.com/xyz959))
+- 邮箱: 您的邮箱地址
+
+让我们一起创造更美好的互联网世界吧！🚀
